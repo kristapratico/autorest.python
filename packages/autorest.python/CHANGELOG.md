@@ -1,5 +1,9 @@
 # Release
 
+## 6.27.0
+
+No changes, version bump only.
+
 ## 6.26.4
 
 ### Bug Fixes

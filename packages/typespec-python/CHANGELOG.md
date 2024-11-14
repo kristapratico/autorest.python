@@ -1,5 +1,9 @@
 # Release
 
+## 0.37.0
+
+No changes, version bump only.
+
 ## 0.36.4
 
 ### Bug Fixes
