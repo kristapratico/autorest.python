@@ -1,5 +1,9 @@
 # Release
 
+## 6.28.0
+
+No changes, version bump only.
+
 ## 6.27.2
 
 ### Bug Fixes

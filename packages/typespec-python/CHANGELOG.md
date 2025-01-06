@@ -1,5 +1,12 @@
 # Release
 
+## 0.38.0
+
+### Features
+
+- [#2988](https://github.com/Azure/autorest.python/pull/2988) set flavor to azure if not set
+
+
 ## 0.37.2
 
 ### Bug Fixes
